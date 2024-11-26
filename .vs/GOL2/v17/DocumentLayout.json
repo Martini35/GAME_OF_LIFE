@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Mapa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Mapa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Macierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Macierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Instrukcja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Instrukcja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Przycisk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Przycisk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Mapa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Mapa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Przycisk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Przycisk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Okno.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Okno.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Okno.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Okno.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\GOL2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\GOL2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Macierze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Macierze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Instrukcja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3384DAD-E483-437D-97AF-3BFF179BC502}|GOL2\\GOL2.vcxproj|solutionrelative:GOL2\\Instrukcja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GOL2.cpp",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\GOL2.cpp",
+              "RelativeDocumentMoniker": "GOL2\\GOL2.cpp",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\GOL2.cpp",
+              "RelativeToolTip": "GOL2\\GOL2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T15:07:00.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Okno.cpp",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Okno.cpp",
+              "RelativeDocumentMoniker": "GOL2\\Okno.cpp",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Okno.cpp",
+              "RelativeToolTip": "GOL2\\Okno.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T15:07:09.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Przycisk.cpp",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Przycisk.cpp",
+              "RelativeDocumentMoniker": "GOL2\\Przycisk.cpp",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Przycisk.cpp",
+              "RelativeToolTip": "GOL2\\Przycisk.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T15:07:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mapa.cpp",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Mapa.cpp",
+              "RelativeDocumentMoniker": "GOL2\\Mapa.cpp",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Mapa.cpp",
+              "RelativeToolTip": "GOL2\\Mapa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0CAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T15:07:08.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instrukcja.cpp",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Instrukcja.cpp",
+              "RelativeDocumentMoniker": "GOL2\\Instrukcja.cpp",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Instrukcja.cpp",
+              "RelativeToolTip": "GOL2\\Instrukcja.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T15:07:05.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Macierze.cpp",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Macierze.cpp",
+              "RelativeDocumentMoniker": "GOL2\\Macierze.cpp",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Macierze.cpp",
+              "RelativeToolTip": "GOL2\\Macierze.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T15:07:07.56Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Okno.h",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Okno.h",
+              "RelativeDocumentMoniker": "GOL2\\Okno.h",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Okno.h",
+              "RelativeToolTip": "GOL2\\Okno.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T15:07:21.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mapa.h",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Mapa.h",
+              "RelativeDocumentMoniker": "GOL2\\Mapa.h",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Mapa.h",
+              "RelativeToolTip": "GOL2\\Mapa.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T15:07:21.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Przycisk.h",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Przycisk.h",
+              "RelativeDocumentMoniker": "GOL2\\Przycisk.h",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Przycisk.h",
+              "RelativeToolTip": "GOL2\\Przycisk.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T15:07:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Macierze.h",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Macierze.h",
+              "RelativeDocumentMoniker": "GOL2\\Macierze.h",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Macierze.h",
+              "RelativeToolTip": "GOL2\\Macierze.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T15:07:20.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instrukcja.h",
+              "DocumentMoniker": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Instrukcja.h",
+              "RelativeDocumentMoniker": "GOL2\\Instrukcja.h",
+              "ToolTip": "C:\\Users\\Martini\\Desktop\\GOL2 \u2014 kopia \u2014 kopia \u2014 kopia \u2014 kopia\\GOL2\\Instrukcja.h",
+              "RelativeToolTip": "GOL2\\Instrukcja.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T15:07:12.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
